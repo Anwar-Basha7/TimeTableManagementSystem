@@ -1,0 +1,39 @@
+@page {
+    size: A4;
+    margin: 0;
+}
+
+#print-btn {
+    display: block;
+    visibility: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#footer123 {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Hide the button when printing */
+@media print {
+    #print-btn {
+        display: none;
+        visibility: hidden;
+    }
+
+    #footer123 {
+        display: block;
+    }
+}
