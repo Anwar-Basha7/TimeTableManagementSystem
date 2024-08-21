@@ -17,7 +17,7 @@
  **Download Entire Timetable:** Students can download the complete timetable for their semester/class.
   **Reformat and Make Corrections:** Students can reformat the timetable and make corrections if needed, likely for their own reference and organization.
 
-## Additional Features (Not specified in your outline, but may be considered):
+## Additional Features :
   **User Authentication:** Logins for administrators, teachers, and students to access the system securely.
   **Timetable Generation:** Automatic generation of timetables based on provided inputs to avoid clashes and optimize scheduling.
   **Notifications:** Automated reminders or notifications for teachers and students about upcoming classes or changes in the timetable.
