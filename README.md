@@ -11,11 +11,11 @@
 
 ## Features for Teachers:
   **Download Entire Timetable:** Teachers can download the complete timetable, including all subjects.
-  Download Allotted Subject Timetable: Teachers can download the timetable for the subjects they are assigned to, rather than the entire timetable.
+  **Download Allotted Subject Timetable:** Teachers can download the timetable for the subjects they are assigned to, rather than the entire timetable.
 
 ## Features for Students:
- ** Download Entire Timetable:** Students can download the complete timetable for their semester/class.
-  Reformat and Make Corrections: Students can reformat the timetable and make corrections if needed, likely for their own reference and organization.
+ **Download Entire Timetable:** Students can download the complete timetable for their semester/class.
+  **Reformat and Make Corrections:** Students can reformat the timetable and make corrections if needed, likely for their own reference and organization.
 
 ## Additional Features (Not specified in your outline, but may be considered):
   **User Authentication:** Logins for administrators, teachers, and students to access the system securely.
